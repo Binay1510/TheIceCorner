@@ -1,0 +1,50 @@
+.book{
+	padding-top:40px;
+}
+.img1{
+	margin-top:200px;	
+	
+}
+.input2{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size: 15px;
+ 	color:black;
+	width:400px;	
+  	background:#FFF;
+  	height:35px;
+  	padding-left:0px; 
+	text-align:center;
+	margin-top:15px;
+}
+.input button{
+	margin-top:25px;
+}
+.slider2{
+	background:url(Images/fudge.jpg) fixed;
+	padding-top:300px;
+	background-size:cover;
+	color:white;
+	font-family:Georgia, "Times New Roman", Times, serif, Algerian;
+	margin-top:10px;
+	height:600px;	
+}
+.slider_text{	
+	font-size:60px;
+	text-align:center;
+	padding-bottom:200px;	
+}
+.reservation{
+    
+    padding-top:40px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:46px;	
+	font-weight:400px;
+	font-stretch:condensed;
+	padding-top:70px;
+	text-transform:uppercase;
+	color:#333;
+	
+}
+.center{
+    display: flex;
+}
